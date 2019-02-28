@@ -2,16 +2,12 @@
 CTSA Data Sharing Governance Pathways Project
 
 ## Problem statement
-Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand. 
+Clear governance pathways within and between CTSAs are needed to expediently allow safe sharing of electronic health data for research. This project provides a master Data Use Agreement (DUAs) and governance "Pathways" documentation to promote collaborative and flexible data sharing for CTSA hubs.
 
 ## Project description
-(we will migrate these from the Project Matrix for you)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium a felis non scelerisque. Etiam molestie nisi ut mi viverra dictum. Nunc et tempor quam. Maecenas a viverra sapien. Aliquam lacinia sagittis lorem ac sodales. Fusce justo mi, cursus sed metus sed, ornare vestibulum mauris. Donec in orci ornare, facilisis nisl ut, congue libero.
+Clear governance pathways within and between CTSAs are needed to expediently allow safe sharing of electronic health data for research. Some CTSAs have multiple collaborating institutions within their institute, who own data (e.g., EHR derived health system data), but struggle to create governance agreements to share the data for research. CTSAs also take on laborious honest brokerage processes and others are struggling to tighten their governance to be in full compliance. CTSAs need clear guidelines and governance vehicles to execute safe and compliant data sharing with individual researchers and across institutions. This project aims to create a library of DUAs and best practice information, a Master Data Use agreement that can be flexibly populated as a template, and "Pathways" documentation for CTSA hubs to aid decisionmaking and authoritative data sharing. The ultimate goal is to promote collaborative and flexible data sharing across the whole of the CTSA Program.
 
 ## Contact person
-
-We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
