@@ -46,7 +46,7 @@ Each project should propose one or more deliverables. Examples: a released code 
 TO DO
 
 ## Working documents
-TO DO
+The [project folder of Google Documents](https://drive.google.com/drive/u/0/folders/1bxu7JRnVgZsaj8xkthsKwpZBiasgDnXL) is available to all onboarded participants.
 
 ## Slack channel
 The project slack channel (#governance) is accessible to onboarded participants. You will *not* automatically be added to Slack; however, we encourage you to please join via the link you are emailed when you onboard (bit.ly/cd2h-onboarding-form).
