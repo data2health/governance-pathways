@@ -25,6 +25,8 @@ Melissa Haendel (@mellybelly) | OHSU
 
 ## Team members 
 
+Team Members (github handle) | Site
+----------|--------------|
 Kari Stephens (@kstephen0909) | UW
 Melissa Haendel (@mellybelly) | OHSU
 Sean Mooney | UW
