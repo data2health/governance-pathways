@@ -25,7 +25,12 @@ Melissa Haendel (@mellybelly) | OHSU
 
 ## Team members 
 
-TO DO
+Kari Stephens (@kstephen0909) | UW
+Melissa Haendel (@mellybelly) | OHSU
+Sean Mooney | UW
+Liz Zampino (@ezampino) | UW
+compliance expert | TBD
+legal expert | TBD
 
 ## Repositories
 
