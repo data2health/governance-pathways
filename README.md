@@ -29,7 +29,7 @@ Team Members (github handle) | Site
 ----------|--------------|
 Kari Stephens (@kstephen0909) | UW
 Melissa Haendel (@mellybelly) | OHSU
-Sean Mooney | (@sdmooney) | UW
+Sean Mooney (@sdmooney) | UW
 Matt Brush (@mbrush) | OHSU
 Liz Zampino (@ezampino) | UW
 compliance expert | TBD
