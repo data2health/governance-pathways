@@ -7,6 +7,9 @@ Clear governance pathways within and between CTSAs are needed to expediently all
 ## Project description
 Clear governance pathways within and between CTSAs are needed to expediently allow safe sharing of electronic health data for research. Some CTSAs have multiple collaborating institutions within their institute, who own data (e.g., EHR derived health system data), but struggle to create governance agreements to share the data for research. CTSAs also take on laborious honest brokerage processes and others are struggling to tighten their governance to be in full compliance. CTSAs need clear guidelines and governance vehicles to execute safe and compliant data sharing with individual researchers and across institutions. This project aims to create a library of DUAs and best practice information, a Master Data Use agreement that can be flexibly populated as a template, and "Pathways" documentation for CTSA hubs to aid decisionmaking and authoritative data sharing. The ultimate goal is to promote collaborative and flexible data sharing across the whole of the CTSA Program.
 
+## Alignment to program objectives
+TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
+
 ## Contact person
 
 Point person (github handle) | Site | Program Director
