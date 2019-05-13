@@ -16,11 +16,11 @@ The guidelines and agreements will be disseminated to the community in three way
 We will also build a sustainability plan for the data use agreement model, library and generator.
 
 # Expected Outcomes
-Data use agreement requirements and dimensions table
-DUA example library
-Scientific publications
-DUA generator
-Sustainability plan
+1. Data use agreement requirements and dimensions table
+2. DUA example library
+3. Scientific publications
+4. DUA generator
+5. Sustainability plan
 
 # Timeline (monthly)
  Due Date | Milestone    | Status     | 
