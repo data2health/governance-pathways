@@ -14,7 +14,7 @@ TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Kari Stephens (@kstephen0909) | UW | Adam Wilcox (@abwilcox)
+Adam Wilcox (@abwilcox) | UW
 
 ## Leads 
 
@@ -22,7 +22,7 @@ Project scientific leadership, should be 1-3 persons.
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Kari Stephens (@kstephen0909) | UW
+Adam Wilcox (@abwilcox) | UW
 Melissa Haendel (@mellybelly) | OHSU
 
 
@@ -30,11 +30,11 @@ Melissa Haendel (@mellybelly) | OHSU
 
 Team Members (github handle) | Site
 ----------|--------------|
-Kari Stephens (@kstephen0909) | UW
+Adam Wilcox (@abwilcox) | UW
 Melissa Haendel (@mellybelly) | OHSU
 Matt Brush (@mbrush) | OHSU
 Liz Zampino (@ezampino) | UW
-Christin Suver | TBD
+Beth Britt | UW
 legal expert | TBD
 
 ## Repositories
