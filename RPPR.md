@@ -23,16 +23,18 @@ DUA generator
 Sustainability plan
 
 # Timeline (monthly)
-6/2019 Review organization survey
-7/2019 Define stakeholders, dimensions and components
-8/2019 Data sharing dimensions table
-6/2019 Survey CD2H community
-8/2019 Survey CTSA community
-10/2019 Survey CTSA community for specific gap areas
-9/2019 Map examples to table/grid
-9/2019 Draft of paper on data sharing principles 
-12/2019 Draft of paper for grid and mapping
-12/2019-6/2020 Data use agreement generator
+ Due Date | Milestone    | Status     | 
+|:----------|:--------------:|------------:|
+6/2019 | Survey CD2H community | [Ongoing]
+6/2019 | Review organization survey | [Ongoing]
+7/2019 | Define stakeholders, dimensions and components |[Ongoing]
+8/2019 | Data sharing dimensions table | [Not Started]
+8/2019 | Survey CTSA community  | [Ongoing] 
+10/2019 | Survey CTSA community for specific gap areas | [Not Started]
+9/2019 | Map examples to table/grid | [Not Started]
+9/2019 | Draft of paper on data sharing principles | [Not Started]
+12/2019 | Draft of paper for grid and mapping | [Not Started]
+12/2019-6/2020 | Data use agreement generator | [Not Started]
 
 # Potential Pitfalls and Alternative Strategies
 The biggest risk to the project is that data use agreements will not be shared as examples due to proprietary data concerns. Due to having two approaches, we can address the limitations of the data use library by creating the data use dimension tables. 
