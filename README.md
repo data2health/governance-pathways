@@ -14,7 +14,8 @@ TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Adam Wilcox (@abwilcox) | UW
+Liz Zampino (ezampino | UW | Adam Wilcox
+
 
 ## Leads 
 
@@ -42,10 +43,10 @@ legal expert | TBD
 https://github.com/EBISPOT/DUO
 
 ## Deliverables
-Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
+
 
 ## Get involved
-TO DO
+
 
 ## Working documents
 The [project folder of Google Documents](https://drive.google.com/drive/u/0/folders/1bxu7JRnVgZsaj8xkthsKwpZBiasgDnXL) is available to all onboarded participants.
