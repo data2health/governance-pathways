@@ -34,31 +34,30 @@ Liz Zampino | [ezampino](https://github.com/ezampino) | UW
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
-Matt Baumann | [mattbaumann1](http://github.com/mattbaumann1) | Northwestern
+Tell Bennett | [tdbennett](https://github.com/tdbennett) | UCDenver
 Tom Campion | [github.com](http://github.com) | Cornell
-Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
+Jack Chang | [ab2cw](https://github.com/ab2cw) | URMC
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
-David Ellison | [dhekidney](http://github.com/dhekidney) | OHSU
+David Dorr | [davedorr9](http://github.com/davedorr9) | OHSU
 Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
 Joseph Finkelstein | [finkeljOMOP](http://github.com/finkeljOMOP) | Icahn
-Tricia Francis | [tricfran](http://github.com/tricfran) | JHU
-Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
-Justin Guinney | [jguinney](http://github.com/jguinney) | Sage
-Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
+Brian Furner | [bfurner](https://github.com/bfurner) | UChicago
+JP Gourdine | [jpgourdine](https://github.com/jpgourdine) | OHSU
+Kate Haas LaVigne | [KateHaasLaVigne](https://github.com/KateHaasLaVigne) | UChicago
+Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
+Bernie LaSalle | [github.com](http://github.com) | UUtahHealth
+Albert Lai | [laialbert](https://github.com/laialbert) | WashU
+Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
-Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
-Svetlana Rojevsky | [github.com](http://github.com) | Tufts
-Erica Rosemond | [rosemonde2](http://github.com/rosemonde2) | NCATS
+Justin Ramsdill | [ramsdill](http://github.com/ramsdill) | OHSU
+Rose Relevo | [RoseRelevo](https://github.com/RoseRelevo) | OHSU
 Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
-Thomas Schaffter | [tschaffter](https://github.com/tschaffter) | Sage
 Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
-Eric Sid | [ericsid](https://github.com/ericsid) | NCATS
-Sai Manjula Simhadri | [saimanjula](https://github.com/saimanjula) | NCATS
-Harold Solbrig | [hsolbrig](http://github.com/hsolbrig) | JHU
 Julian Solway | [jsolway](http://github.com/jsolway) | UChicago
-Bradley Taylor | [btaylormcw](https://github.com/btaylormcw) | MCW
-Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps
+Nicole Weiskopf | [weiskopf](http://github.com/weiskopf) | OHSU
 Andrew Williams | [AEW0330](http://github.com/AEW0330) | Tufts
+Amy Yates | [aeyates](https://github.com/aeyates) | OHSU
 Xinzhi Zhang | [NCATS2019](https://github.com/NCATS2019) | NCATS
 
