@@ -15,6 +15,8 @@ The guidelines and agreements will be disseminated to the community in three way
 
 We will also build a sustainability plan for the data use agreement model, library and generator.
 
+Due to a specific need for defined principles and templates regarding CTSA data sharing, we will initially create templates for data sharing for the use case of sharing data among CTSA hubs. This will involve 3 sharing tasks: sharing de-identified data centrally; allowing distributed queries on protected health information; and facilitating data sharing between two or more defined participant organizations.
+
 # Expected Outcomes
 1. Data use agreement requirements and dimensions table
 2. DUA example library
@@ -26,15 +28,16 @@ We will also build a sustainability plan for the data use agreement model, libra
 
 # Timeline (monthly)
  Due Date | Milestone    | Status     | 
-|:----------|:--------------:|------------:|
+|:----------|:--------------|------------:|
 6/2019 | Survey CD2H community | [Ongoing]
 6/2019 | Review organization survey | [Ongoing]
 7/2019 | Define stakeholders, dimensions and components |[Ongoing]
 8/2019 | Data sharing dimensions table | [Not Started]
 8/2019 | Survey CTSA community  | [Ongoing] 
+9/2019 | Data use agreement template/principles for CTSA Data Sharing | [Not Started]
 10/2019 | Survey CTSA community for specific gap areas | [Not Started]
 9/2019 | Map examples to table/grid | [Not Started]
-9/2019 | Draft of paper on data sharing principles | [Not Started]
+10/2019 | Draft of paper on data sharing principles | [Not Started]
 12/2019 | Draft of paper for grid and mapping | [Not Started]
 12/2019-6/2020 | Data use agreement generator | [Not Started]
 
