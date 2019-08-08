@@ -29,12 +29,12 @@ Due to a specific need for defined principles and templates regarding CTSA data 
 # Timeline (monthly)
  Due Date | Milestone    | Status     | 
 |:----------|:--------------|------------:|
-6/2019 | Survey CD2H community | [Ongoing]
-6/2019 | Review organization survey | [Ongoing]
-7/2019 | Define stakeholders, dimensions and components |[Ongoing]
-8/2019 | Data sharing dimensions table | [Not Started]
-8/2019 | Survey CTSA community  | [Ongoing] 
-9/2019 | Data use agreement template/principles for CTSA Data Sharing | [Not Started]
+6/2019 | Survey CD2H community | [DONE]
+6/2019 | Review organization survey | [DONE]
+7/2019 | Define stakeholders, dimensions and components |[DONE]
+8/2019 | Data sharing dimensions table | [DONE]
+8/2019 | Survey CTSA community  | [DONE] 
+9/2019 | Data use agreement template/principles for CTSA Data Sharing | [ONGOING]
 10/2019 | Survey CTSA community for specific gap areas | [Not Started]
 9/2019 | Map examples to table/grid | [Not Started]
 10/2019 | Draft of paper on data sharing principles | [Not Started]
