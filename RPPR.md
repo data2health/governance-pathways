@@ -35,7 +35,7 @@ Due to a specific need for defined principles and templates regarding CTSA data 
 8/2019 | Data sharing dimensions table/grid | [DONE]
 8/2019 | Survey CTSA community  | [DONE] 
 9/2019 | Map examples to table/grid | [ONGOING]
-9/2019 | Data use agreement template/principles for CTSA Data Sharing | [ONGOING]
+9/2019 | Data use agreement guideline for CTSA Data Sharing | [ONGOING]
 10/2019 | Survey CTSA community for specific gap areas | [ONGOING]
 10/2019 | Draft of paper on data sharing principles | [Not Started]
 12/2019 | Draft of paper for grid and mapping | [Not Started]
