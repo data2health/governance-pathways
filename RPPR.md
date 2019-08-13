@@ -33,7 +33,7 @@ Due to a specific need for defined principles and templates regarding CTSA data 
 6/2019 | Review organization survey | [DONE]
 7/2019 | Define stakeholders, dimensions and components |[DONE]
 8/2019 | Data sharing dimensions table/grid | [DONE]
-8/2019 | Survey CTSA community  | [ONGOING] 
+8/2019 | Survey CTSA community  | [DONE] 
 9/2019 | Map examples to table/grid | [ONGOING]
 9/2019 | Data use agreement template/principles for CTSA Data Sharing | [ONGOING]
 10/2019 | Survey CTSA community for specific gap areas | [ONGOING]
