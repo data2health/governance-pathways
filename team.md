@@ -10,6 +10,7 @@ John Wilbanks | [wilbanksjohn](http://github.com/wilbanksjohn) | Sage
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
+Chris Amos | [github.com](http://github.com) | Baylor
 Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
 Matthew Brush | [mbrush](http://github.com/mbrush) | OHSU
 Tim Carey | [tscarey](http://github.com/tscarey) | UNC
@@ -56,6 +57,7 @@ Bernie LaSalle | [github.com](http://github.com) | UUtahHealth
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
+Steve Patterson | [github.com.](http://github.com.) | #N/A
 Justin Ramsdill | [ramsdill](http://github.com/ramsdill) | OHSU
 Rose Relevo | [RoseRelevo](https://github.com/RoseRelevo) | OHSU
 Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
