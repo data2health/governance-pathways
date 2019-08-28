@@ -52,6 +52,7 @@ Brian Furner | [bfurner](https://github.com/bfurner) | UChicago
 JP Gourdine | [jpgourdine](https://github.com/jpgourdine) | OHSU
 Kate Haas LaVigne | [KateHaasLaVigne](https://github.com/KateHaasLaVigne) | UChicago
 Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern
+Steve Johnson | [github.com](http://github.com) | NYU
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Bernie LaSalle | [github.com](http://github.com) | UUtahHealth
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
@@ -65,6 +66,7 @@ Eugene Sadhu | [eugsadhu](https://github.com/eugsadhu) | UIC
 Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
 Tony Solomonides | [github.com](http://github.com) | UChicago
 Julian Solway | [jsolway](http://github.com/jsolway) | UChicago
+Juan Suarez | [github.com](http://github.com) | NYU
 Nicole Weiskopf | [weiskopf](http://github.com/weiskopf) | OHSU
 Andrew Williams | [AEW0330](http://github.com/AEW0330) | Tufts
 Amy Yates | [aeyates](https://github.com/aeyates) | OHSU
