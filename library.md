@@ -22,6 +22,9 @@ We have reviewed and classified DUAs according to the defined parameter concepts
 These data were then analyzed to identify important patterns among data sharing examples. 
 The data can also be used to help create new data use agreements, by defining the parameters of the intended data sharing and using these data to identify relevant DUAs with similar parameters.
 
+### [DUA Principles](https://docs.google.com/document/d/11oTGUFy0EwpsLQYr0qeqLiAq71ifsAzSs0ifuHWGsTQ/view)
+We have analyzed the data from the DUA parameter classification ([DUA Parameters](https://docs.google.com/spreadsheets/d/1BoZ9Ea-V0S014vRYidIl3c4VrrcIxJEF29HHue3sszE/edit#gid=0)) and identifed specific findings and principles for sharing biomedical data. These principles are specifically relevant to clinical and translational science and CTSA hubs using biomedical data.
+
 ## Ongoing Work
 We are continuing to expand our DUA library as new DUAs are identified. 
 In addition, we are creating templates for specific data sharing use cases (defined by our data parameters) that can be used to build DUAs.
