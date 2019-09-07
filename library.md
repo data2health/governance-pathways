@@ -1,6 +1,5 @@
 # Data Use Agreement Library
 
-## Problem statement
 CTSAs need clear pathways and guidance to navigate data governance in order to share data with individual researchers and across institutions. We can help organizations define how they can best share data, and provide examples and templates of standardized Data Use Agreements (DUAs) to make it easier for hubs to share data with researchers. 
 
 
