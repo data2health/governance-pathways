@@ -11,10 +11,10 @@ There are multiple factors or dimensions of data, including ownership, use, and 
 This glossary lists defined parameter concepts and possible values that can affect agreements for data sharing.
 
 ### [DUA Library](https://docs.google.com/spreadsheets/d/1BoZ9Ea-V0S014vRYidIl3c4VrrcIxJEF29HHue3sszE/edit#gid=2088831834)
-This is the library of shared or publicly-available DUAs. 
+This is the curated library of shared or publicly-available DUAs. 
 Shared DUAs were received by CD2H, with permissions to share in the library. 
 Publicly-available DUAs were obtained from sites (primarily CTSA hubs) with links to the documents.
-Documents in this library are updated as more DUAs are obtained.
+Documents in this library are updated as more DUAs are obtained. We welcome your contributions and we plan to formalize the library to make it even easier to use.
 
 ### [DUA Parameters](https://docs.google.com/spreadsheets/d/1BoZ9Ea-V0S014vRYidIl3c4VrrcIxJEF29HHue3sszE/edit#gid=0)
 We have reviewed and classified DUAs according to the defined parameter concepts in the [Parameters Glossary](https://docs.google.com/spreadsheets/d/1BoZ9Ea-V0S014vRYidIl3c4VrrcIxJEF29HHue3sszE/edit#gid=1674461813) that are relevant to data sharing.
