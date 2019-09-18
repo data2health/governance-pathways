@@ -37,9 +37,8 @@ Project scientific leadership:
 
 ## DUA Contributor(s)
 We would like to acknowledge the following institutions:
-Health Care Systems Research Network (HCSRN)
 
-Patient Centered Outcomes Research Institute (PCORI)
+Health Care Systems Research Network (HCSRN)
 
 University of Utah
 
@@ -55,7 +54,7 @@ UC Davis
 
 and many more...
 
-If you would like access to these please fill out this request form: 
+# If you would like access to these please fill out [this](https://docs.google.com/forms/d/1CUqZ4QINN4LknwslZl30DHfBwezaJtsHqu0WQCNOoC0/edit) request form: 
 
 
 #### Back to [home](https://data2health.github.io/governance-pathways/)
