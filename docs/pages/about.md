@@ -54,7 +54,7 @@ UC Davis
 
 and many more...
 
-#### If you would like access to these please fill out [this](https://docs.google.com/forms/d/1CUqZ4QINN4LknwslZl30DHfBwezaJtsHqu0WQCNOoC0/edit) request form: 
+#### If you would like access to the DUA Library please fill out [this](https://docs.google.com/forms/d/1CUqZ4QINN4LknwslZl30DHfBwezaJtsHqu0WQCNOoC0/edit) request form. 
 
 
 #### Back to [home](https://data2health.github.io/governance-pathways/)
