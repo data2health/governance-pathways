@@ -24,8 +24,8 @@ Project scientific leadership:
 ## Contact person
 
 | Point person (github handle) 
-| ---------- | -------------- 
-| Liz Zampino (@ezampino) | UW 
+| ---------- | -------------- |
+| Liz Zampino (@ezampino) | UW |
 
 ## Core Team Members
 
