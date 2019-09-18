@@ -11,9 +11,9 @@ There is a widespread urgency to create clear governance pathways for secure ele
 This project aims to create a library of standardized agreements used across CTSA hubs and related communities, disseminate best practice information, create and pilot data sharing agreement for specific use cases that can be flexibly populated as a template, and "Pathways" documentation for CTSA hubs to aid decision making and authoritative data sharing. The ultimate goal is to ease collaborative and flexible data sharing across the whole of the CTSA consortium.
 
 
-### Meet the Team
+## Meet the Team
 
-## Leads 
+### Leads 
 
 Project scientific leadership: 
 
@@ -21,13 +21,13 @@ Project scientific leadership:
 | ---------- | -------------- |
 | Adam Wilcox (@abwilcox) | UW |
 
-## Contact person
+### Contact person
 
 | Point person (github handle) | Site |
 | ---------- | -------------- |
 | Liz Zampino (@ezampino) | UW |
 
-## Core Team Members
+### Core Team Members
 
 | University of Washington | Sage Bionetworks 
 | ---------- | -------------- 
