@@ -55,10 +55,7 @@ UC Davis
 
 and many more...
 
-
-## Mailing list only
-
-
+If you would like access to these please fill out this request form: 
 
 
 #### Back to [home](https://data2health.github.io/governance-pathways/)
