@@ -1,17 +1,8 @@
-CTSAs need clear pathways and guidance to navigate data governance in order to share data with individual researchers and across institutions. We can help organizations define how they can best share data, and provide examples and templates of standardized Data Use Agreements (DUAs) to make it easier for hubs to share data with researchers. 
+Governance Pathways, a project of the National Center for Data to Health (grant U24TR002306), aims to define clear pathways and guidance to help CTSAs navigate the complex data sharing scenerios that exist. 
 
-This project aims to create a library of standardized agreements used across CTSA hubs and related communities, disseminate best practice information, create and pilot data sharing agreement for specific use cases that can be flexibly populated as a template, and "Pathways" documentation for CTSA hubs to aid decision making and authoritative data sharing. The ultimate goal is to ease collaborative and flexible data sharing across the whole of the CTSA consortium.
-
-OUR WORK CAN HELP YOUR CTSA  
-
-Data sharing dimensions that can help you navigate questions & determine best practices 
-
-[Data use agreement principles that help your CTSA collaborate with partners](bit.ly/DUA_Principles)
-
-NEXT STEPS
-
-- Identify a CTSA consortium
-- Pilot test the template(s) with consortium
-- Integrate existing models
-- Ratify data sharing agreement pathways and template(s) for broad CTSA consortium use
-- Create a sustainability plan for the data use agreement model, guidelines  and template
+About
+Data Sharing Metrics
+Publically available DUAs
+Request permission to the library (form)
+FAQ
+Provide Feedback
