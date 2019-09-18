@@ -1,6 +1,6 @@
 Governance Pathways, a project of the National Center for Data to Health (grant U24TR002306), aims to define clear pathways and guidance to help CTSAs navigate the complex data sharing scenerios that exist. 
 
-[About](https://github.com/data2health/governance-pathways/blob/master/docs/pages/about.md)
+[About](docs/pages/about.md)
 
 [Data Sharing Metrics](https://docs.google.com/spreadsheets/d/1pL3kswKBEL7jjhwYQHWbMD6cVL-FSpwsAyofTi4Ts5I/edit#gid=0)
 		
