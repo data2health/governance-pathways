@@ -1,10 +1,17 @@
 CTSAs need clear pathways and guidance to navigate data governance in order to share data with individual researchers and across institutions. We can help organizations define how they can best share data, and provide examples and templates of standardized Data Use Agreements (DUAs) to make it easier for hubs to share data with researchers. 
+
 This project aims to create a library of standardized agreements used across CTSA hubs and related communities, disseminate best practice information, create and pilot data sharing agreement for specific use cases that can be flexibly populated as a template, and "Pathways" documentation for CTSA hubs to aid decision making and authoritative data sharing. The ultimate goal is to ease collaborative and flexible data sharing across the whole of the CTSA consortium.
 
+OUR WORK CAN HELP YOUR CTSA  
 
-EXPLORE OUR WORK
-Library of data sharing agreements and best practices  (bit.ly/DUA_Library)
-Data sharing dimensions matrix with mapped DUAs from library
-(bit.ly/DUA_Parameters)
-Data use agreement principles for CTSA Data Sharing 
-(bit.ly/DUA_Principles)
+Data sharing dimensions that can help you navigate questions & determine best practices 
+
+[Data use agreement principles that help your CTSA collaborate with partners](bit.ly/DUA_Principles)
+
+NEXT STEPS
+
+- Identify a CTSA consortium
+- Pilot test the template(s) with consortium
+- Integrate existing models
+- Ratify data sharing agreement pathways and template(s) for broad CTSA consortium use
+- Create a sustainability plan for the data use agreement model, guidelines  and template
