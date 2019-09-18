@@ -6,7 +6,7 @@ Governance Pathways, a project of the National Center for Data to Health (grant 
 		
 [Publically available DUAs](https://docs.google.com/spreadsheets/d/1o5x2gGKPqw-almxewaDmwoBLo60qIczwIl7fQfqCBuk/edit?usp=sharing)
 
-Request permission to the library (form)
+[Request permission to the library](https://docs.google.com/forms/d/1CUqZ4QINN4LknwslZl30DHfBwezaJtsHqu0WQCNOoC0/edit)
 
 FAQ
 
