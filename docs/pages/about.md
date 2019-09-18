@@ -35,8 +35,17 @@ Project scientific leadership:
 | Liz Zampino | Ann Novakowski
 	
 
-## Contributor(s)
-
+## DUA Contributor(s)
+We would like to acknowledge the following institutions:
+Health Care Systems Research Network (HCSRN)
+Patient Centered Outcomes Research Institute (PCORI)
+University of Utah
+Mount Sinai 
+TriNetX
+VITAL
+Emory
+UC Davis
+and many more...
 
 
 ## Mailing list only
