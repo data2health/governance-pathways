@@ -8,14 +8,4 @@ Our deliverables:
 		
 [Publically available DUAs](https://docs.google.com/spreadsheets/d/1o5x2gGKPqw-almxewaDmwoBLo60qIczwIl7fQfqCBuk/edit?usp=sharing)
 
-[Data Sharing Principles]
-
-[Next Steps]
-
-
-
-FAQ
-
-Provide Feedback
-
 
