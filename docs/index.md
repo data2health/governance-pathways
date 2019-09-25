@@ -2,7 +2,7 @@ Governance Pathways, a project of the National Center for Data to Health (grant 
 
 [About](pages/about.md)
 
-Our deliverables: 
+Our Work: 
 
 [Data Sharing Metrics](https://docs.google.com/spreadsheets/d/1pL3kswKBEL7jjhwYQHWbMD6cVL-FSpwsAyofTi4Ts5I/edit#gid=0)
 		
