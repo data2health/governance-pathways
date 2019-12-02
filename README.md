@@ -24,7 +24,6 @@ Project scientific leadership, should be 1-3 persons.
 Lead(s) (github handle) | Site
 ----------|--------------|
 Adam Wilcox (@abwilcox) | UW
-Melissa Haendel (@mellybelly) | OHSU
 
 
 ## Team members 
@@ -32,11 +31,10 @@ Melissa Haendel (@mellybelly) | OHSU
 Team Members (github handle) | Site
 ----------|--------------|
 Adam Wilcox (@abwilcox) | UW
-Melissa Haendel (@mellybelly) | OHSU
-Matt Brush (@mbrush) | OHSU
 Liz Zampino (@ezampino) | UW
-Beth Britt | UW
-legal expert | TBD
+Rania Mussa (@ramussa)  | UW
+Ann Novakowski (ankimno) | Sage Bionetworks
+Christine Suver (cfsuver) | Sage Bionetworks 
 
 ## Repositories
 
