@@ -19,12 +19,10 @@ Liz Zampino (ezampino | UW | Adam Wilcox
 
 ## Leads 
 
-Project scientific leadership, should be 1-3 persons. 
-
 Lead(s) (github handle) | Site
 ----------|--------------|
 Adam Wilcox (@abwilcox) | UW
-
+Christine Suver (@cfsuver) | Sage Bionetworks 
 
 ## Team members 
 
@@ -33,8 +31,8 @@ Team Members (github handle) | Site
 Adam Wilcox (@abwilcox) | UW
 Liz Zampino (@ezampino) | UW
 Rania Mussa (@ramussa)  | UW
-Ann Novakowski (ankimno) | Sage Bionetworks
-Christine Suver (cfsuver) | Sage Bionetworks 
+Ann Novakowski (@ankimno) | Sage Bionetworks
+Christine Suver (@cfsuver) | Sage Bionetworks 
 
 ## Repositories
 
