@@ -67,6 +67,8 @@ Steve Johnson | [sbjohnson1](http://github.com/sbjohnson1) | NYU
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Bernie LaSalle | [github.com](http://github.com) | UUtahHealth
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
+Rebecca Laird | [github.com](http://github.com) | CLIC
+Prasanth Manukonda | [github.com](http://github.com) | Rockefeller
 Kate Marusina | [github.com](http://github.com) | UCDavisHealth
 Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Eric Miller | [squishymedia](https://github.com/squishymedia) | SquishyMedia
