@@ -39,7 +39,7 @@ Due to a specific need for defined principles and templates regarding CTSA data 
 11/2019 | Survey CTSA community for specific gap areas | [DONE]
 12/2019 | Draft of paper on data sharing principles | [DONE]
 12/2019 | Draft of paper for grid and mapping | [DONE]
-12/2019-6/2020 | Data use agreement toolbox | [Not Started]
+12/2019-6/2020 | Data use agreement toolbox | [IN PROGRESS]
 
 # Potential Pitfalls and Alternative Strategies
 The biggest risk to the project is that data use agreements will not be shared as examples due to proprietary data concerns. Due to having two approaches, we can address the limitations of the data use library by creating the data use dimension tables. 
