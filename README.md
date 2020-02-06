@@ -1,5 +1,5 @@
 # governance-pathways
-CTSA Data Sharing Governance Pathways Project
+[CTSA Data Sharing Governance Pathways Project](https://data2health.github.io/governance-pathways/)
 
 ## Problem statement
 Clear governance pathways within and between CTSAs are needed to expediently allow safe sharing of electronic health data for research. This project provides governance "Pathways" documentation to promote collaborative and flexible data sharing for CTSA hubs.
