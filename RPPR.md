@@ -43,3 +43,24 @@ Due to a specific need for defined principles and templates regarding CTSA data 
 
 # Potential Pitfalls and Alternative Strategies
 The biggest risk to the project is that data use agreements will not be shared as examples due to proprietary data concerns. Due to having two approaches, we can address the limitations of the data use library by creating the data use dimension tables. 
+
+# Y3 (July 1, 2019-June 30, 2020) Accomplishments 
+The following content is from the June 30 - Dec 30, 2019 mid year progress report [here](https://docs.google.com/document/d/1LLe3uCfEUakWxIJyi5SA4ZocYDmINvhySTperaui1Bw/edit).  Please add progress for Jan 1 - June 30th, 2020. 
+
+* Survey CD2H community (performed via email)
+* Review organization survey
+* Define stakeholders, dimensions and components
+  * 100% complete
+  * Stakeholders GitHub issue [here](https://github.com/data2health/governance-pathways/issues/36)
+* Data sharing dimensions table
+* Survey CTSA community (performed via email)
+* Survey CTSA community for
+* specific gap areas(performed via email)
+* Map examples to table/grid (tab “data”)
+* Draft of paper on data sharing principles; related presentation here. As of 12/20, the paper draft itself has not yet been started.
+  * 25% Github milestone [here](https://github.com/data2health/governance-pathways/milestone/14)
+* Draft of paper for grid and mapping
+  * 25% Github milestone [here](https://github.com/data2health/governance-pathways/milestone/14)
+* Data use agreement generator
+  * 50% GitHub issue here is to “Evaluate thefdp.org and determine the best way to apply their work towards our guidelines”
+
